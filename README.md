@@ -15,7 +15,5 @@ How to Use the Project:
 Click generate password and apply all the criteria you want included in your password, in a second you will see a new passord.
 
 Website image:# Challenge6-Weatherapp
-# Challenge6-Weatherapp
-# WeatherApp-6
-# WeatherApp-6
-# WeatherApp-6
+
+![Screenshot](https://user-images.githubusercontent.com/117111465/234673037-644e381e-3063-4d42-a7a0-b65f27b32d68.png)
