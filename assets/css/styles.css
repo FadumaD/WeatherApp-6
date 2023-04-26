@@ -1,0 +1,36 @@
+h1 {
+	background-color: lightblue;
+	text-align: center;
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.card {
+	margin: 8px;
+}
+.colOne {
+	background-color: lightblue;
+	
+}
+.colTwo {
+	background-color:lightblue;
+}
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}
+.icons {
+	height: 70px;
+	width: 70px;
+}
+.cardTodayDate {
+	font-size: 20px;
+}
+
+.btn-outline-secondary {
+    color: white;
+    border-color: #6c757d;
+}
